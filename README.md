@@ -36,7 +36,7 @@ O sírvelo con un servidor estático simple:
 python -m http.server 8000
 ```
 
-Luego abre `http://localhost:8000/Facturador%20de%20Rutas%20-%20UI.html`.
+Luego abre `http://localhost:8000/Facturador/xxxxxxxx.html`.
 
 > Nota: esta versión es solo la interfaz. Los botones **Facturar**, **Solo revisar** y **Probar conexión** muestran mensajes de ejemplo; aún no hay conexión con un DMS real.
 
